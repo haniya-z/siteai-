@@ -205,4 +205,14 @@ siteai/
 
 SiteAI demonstrates how Multi-Agent AI and Decision Intelligence can transform engineering decision-making for large-scale infrastructure projects.
 
+
+# 🏗️ System Architecture
+
+The diagram below illustrates how SiteAI integrates AI reasoning, GraphRAG retrieval, the engineering knowledge graph, and enterprise data services into a unified decision intelligence platform.
+
+<p align="center">
+  <img src="assets/architecture.png" alt="SiteAI System Architecture" width="100%">
+</p>
+
+
 ---
