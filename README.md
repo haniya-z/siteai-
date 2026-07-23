@@ -210,9 +210,9 @@ SiteAI demonstrates how Multi-Agent AI and Decision Intelligence can transform e
 
 The diagram below illustrates how SiteAI integrates AI reasoning, GraphRAG retrieval, the engineering knowledge graph, and enterprise data services into a unified decision intelligence platform.
 
-<p align="center">
-  <img src="assets/architecture.png" alt="SiteAI System Architecture" width="100%">
-</p>
+## System Architecture
+
+![System Architecture](Screenshot%202026-07-23%20185617.png)
 
 
 ---
