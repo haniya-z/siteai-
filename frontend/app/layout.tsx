@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "SiteAI — Engineering Decision Intelligence",
+  title: "SiteAI — Engineering Decision Intelligence that helps to make better decision and makes management easy and efficient",
   description: "AI Operating System for EPC Project Delivery",
 };
 
